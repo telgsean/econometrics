@@ -1,4 +1,5 @@
 ---
 title: "My website"
-output: html_document
+author: "Sean"
+format: html
 ---
